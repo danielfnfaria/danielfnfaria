@@ -1,4 +1,4 @@
-## Hi, I'm Daniel and I work at <img height="40" width="150" src="https://allowme.cloud/app/public/img/Logo_escuro.png">
+##### Hi, I'm Daniel and I work at <img height="40" width="150" src="https://allowme.cloud/app/public/img/Logo_escuro.png">
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielfnfaria&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielfnfaria&layout=compact&langs_count=8"/>
