@@ -1,4 +1,6 @@
-## Hi, I'm Daniel
+## Hi, I'm Daniel 
+
+<img src="https://allowme.cloud/app/public/img/Logo_escuro.png">
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielfnfaria&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielfnfaria&layout=compact&langs_count=8"/>
